@@ -28,7 +28,7 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 [Comma car control PID loop](https://github.com/commaai/openpilot/blob/master/selfdrive/controls/controlsd.py)
 
 # Great Hardware
-[Pi Zero](https://shop.pimoroni.com/collections/pi-zero-essentials)
+[Pi Zero](https://shop.pimoroni.com/search?type=product&q=pi+zero)
 
 # Deep Learning Blogs
 [Computer Vision](http://www.computervisionblog.com/)
@@ -38,7 +38,7 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 
 # AI Concerns
 
-[Concerns](https://arxiv.org/pdf/1611.08219v1.pdf)
+[Concerns](https://arxiv.org/pdf/1611.08219v1.pdf), 
 [Concerns](https://arxiv.org/pdf/1606.06565v2.pdf)
 
 # FPV drones
@@ -48,18 +48,23 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 # Great Courses
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning/) 3 months.
+
 [Udacity Self Driving Cars](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) 9 months.
+
 [MIT Self Driving Cars](http://selfdrivingcars.mit.edu/) Five lectures.
+
 [Fast AI Deep Learning](http://course.fast.ai/lessons/lesson1.html) Dive right in.
 
 # Great Tutorials And Challenges
 [Steering Angle](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3#.13xuedhvd)
 
-[NVidia NN car](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/) [Dan Implements It](https://www.youtube.com/watch?v=1nuu5P3voB8)
+[Nvidia NN car](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/), [Dan Implements It](https://www.youtube.com/watch?v=1nuu5P3voB8)
 
 # Great Robots
-[Minitaur](https://practicum2016.wordpress.com/2016/02/11/ghost-robotics-visit/) [Paper](http://ieeexplore.ieee.org/document/7403902/) [Site](http://www.ghostrobotics.io/)
+[Minitaur](http://www.ghostrobotics.io/minitaur/), [Paper](http://ieeexplore.ieee.org/document/7403902/) [Visit](https://practicum2016.wordpress.com/2016/02/11/ghost-robotics-visit/)
+
 [Little Arm](https://www.youtube.com/watch?v=vQcxS8zM150)
+
 [Micro Servo Robot](https://www.youtube.com/watch?v=bLnAJ-mSElE)
 
 # Great Learning
@@ -67,18 +72,25 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 
 # Great Videos
 [Sergey Brin AI Future](https://www.youtube.com/watch?v=XzkUAxtEQXE)
+
 [Vicarious AI](http://thisweekinstartups.com/vicarious-scott-phoenix/)
+
 [Computer Vision](https://www.youtube.com/watch?v=u6aEYuemt0M)
-Space Station https://www.youtube.com/watch?v=SGP6Y0Pnhe4
+
+[Space Station Tour](https://www.youtube.com/watch?v=SGP6Y0Pnhe4)
 
 # Great Software
 [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
+
 [Cartographer](https://opensource.googleblog.com/2016/10/introducing-cartographer.html)
 
 # Study Music
 [Nightmares On Wax DJ Set](https://www.youtube.com/watch?v=Q692lHFaLVM)
+
 [Casey Music](https://www.youtube.com/watch?v=gYwo-sOwfNU)
+
 [Jazz Hop](https://www.youtube.com/watch?v=_Rd2vKI6Amk)
+
 [Disco](https://www.youtube.com/watch?v=mXkq2WimzI4)
 
 # Comedy
