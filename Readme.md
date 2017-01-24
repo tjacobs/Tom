@@ -5,7 +5,11 @@ The original [Hyperloop document](http://www.spacex.com/sites/spacex/files/hyper
 
 Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 
+[Deep Learning Areas](https://medium.com/@NathanBenaich/6-areas-of-artificial-intelligence-to-watch-closely-673d590aa8aa#.km8i646v2)
+
 # Deep Learning Basics
+
+[Keras image steering](https://wroscoe.github.io/keras-lane-following-autopilot.html)
 
 [Squeezenet](https://arxiv.org/pdf/1602.07360v4.pdf). Take AlexNet and squeeze the model into under a megabyte.
 
@@ -14,12 +18,69 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 
 [GANs](https://arxiv.org/pdf/1701.00160v3.pdf)
 
+[Deep Learning Intro](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+
+[Keras Intro](https://www.youtube.com/watch?v=L0IVu_sKOOY)
+
+[Keras Docs](https://keras.io/getting-started/sequential-model-guide/#getting-started-with-the-keras-sequential-model)
+
+# Cool Current Software
+[Comma car control PID loop](https://github.com/commaai/openpilot/blob/master/selfdrive/controls/controlsd.py)
+
 # Great Hardware
+[Pi Zero](https://shop.pimoroni.com/collections/pi-zero-essentials)
 
-Pi Zero
+# Deep Learning Blogs
+[Computer Vision](http://www.computervisionblog.com/)
 
-Flight Controllers
+# History
+[Silicon Valley Birth](https://web.stanford.edu/class/e145/2007_fall/materials/noyce.html)
+
+# AI Concerns
+
+[Concerns](https://arxiv.org/pdf/1611.08219v1.pdf)
+[Concerns](https://arxiv.org/pdf/1606.06565v2.pdf)
+
+# FPV drones
+
+## Flight Controllers
 
 # Great Courses
 
-[Self Driving Cars.](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) 9 months.
+[Machine Learning](https://www.coursera.org/learn/machine-learning/) 3 months.
+[Udacity Self Driving Cars](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) 9 months.
+[MIT Self Driving Cars](http://selfdrivingcars.mit.edu/) Five lectures.
+[Fast AI Deep Learning](http://course.fast.ai/lessons/lesson1.html) Dive right in.
+
+# Great Tutorials And Challenges
+[Steering Angle](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3#.13xuedhvd)
+
+[NVidia NN car](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/) [Dan Implements It](https://www.youtube.com/watch?v=1nuu5P3voB8)
+
+# Great Robots
+[Minitaur](https://practicum2016.wordpress.com/2016/02/11/ghost-robotics-visit/) [Paper](http://ieeexplore.ieee.org/document/7403902/) [Site](http://www.ghostrobotics.io/)
+[Little Arm](https://www.youtube.com/watch?v=vQcxS8zM150)
+[Micro Servo Robot](https://www.youtube.com/watch?v=bLnAJ-mSElE)
+
+# Great Learning
+[How Brian Learns](http://fortune.com/brian-chesky-airbnb/)
+
+# Great Videos
+[Sergey Brin AI Future](https://www.youtube.com/watch?v=XzkUAxtEQXE)
+[Vicarious AI](http://thisweekinstartups.com/vicarious-scott-phoenix/)
+[Computer Vision](https://www.youtube.com/watch?v=u6aEYuemt0M)
+Space Station https://www.youtube.com/watch?v=SGP6Y0Pnhe4
+
+# Great Software
+[ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
+[Cartographer](https://opensource.googleblog.com/2016/10/introducing-cartographer.html)
+
+# Study Music
+[Nightmares On Wax DJ Set](https://www.youtube.com/watch?v=Q692lHFaLVM)
+[Casey Music](https://www.youtube.com/watch?v=gYwo-sOwfNU)
+[Jazz Hop](https://www.youtube.com/watch?v=_Rd2vKI6Amk)
+[Disco](https://www.youtube.com/watch?v=mXkq2WimzI4)
+
+# Comedy
+[Comedians In Cars Getting Coffee](http://comediansincarsgettingcoffee.com/john-oliver-what-kind-of-human-animal-would-do-this)
+
