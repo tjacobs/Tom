@@ -36,12 +36,12 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 
 [Neo](http://www.neodriven.com/)
 
-# Deep Learning Blogs
+# Great Deep Learning Blogs
 [Computer Vision](http://www.computervisionblog.com/)
 
 [Robocars](http://ideas.4brad.com/)
 
-# History
+# Great History
 [Silicon Valley Birth](https://web.stanford.edu/class/e145/2007_fall/materials/noyce.html)
 
 # Great AI Concerns
@@ -53,7 +53,7 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 
 # Great FPV drones
 
-## Frames
+## Great Frames
 
 [Corgette](http://shendrones.myshopify.com/collections/frames/products/corgette)
 
