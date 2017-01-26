@@ -1,5 +1,5 @@
 
-# Future Tech
+# Great Future Tech
 
 The original [Hyperloop document](http://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf)
 
@@ -7,7 +7,7 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 
 [Deep Learning Areas](https://medium.com/@NathanBenaich/6-areas-of-artificial-intelligence-to-watch-closely-673d590aa8aa#.km8i646v2)
 
-# Deep Learning Basics
+# Great Deep Learning Basics
 
 [Keras image steering](https://wroscoe.github.io/keras-lane-following-autopilot.html)
 
@@ -24,26 +24,31 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 
 [Keras Docs](https://keras.io/getting-started/sequential-model-guide/#getting-started-with-the-keras-sequential-model)
 
-# Cool Current Software
+# Great Current Software
 [Comma car control PID loop](https://github.com/commaai/openpilot/blob/master/selfdrive/controls/controlsd.py)
 
 # Great Hardware
 [Pi Zero](https://shop.pimoroni.com/search?type=product&q=pi+zero)
-
+https://www.stereolabs.com/
+http://www.nvidia.com/object/jetson-tk1-embedded-dev-kit.html
+http://www.neodriven.com/
 # Deep Learning Blogs
 [Computer Vision](http://www.computervisionblog.com/)
-
+http://ideas.4brad.com/
 # History
 [Silicon Valley Birth](https://web.stanford.edu/class/e145/2007_fall/materials/noyce.html)
 
-# AI Concerns
+# Great AI Concerns
 
 [Concerns](https://arxiv.org/pdf/1611.08219v1.pdf), 
 [Concerns](https://arxiv.org/pdf/1606.06565v2.pdf)
+[Wait But Why](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 
-# FPV drones
+# Great FPV drones
 
-## Flight Controllers
+## Frames
+
+[Corgette](http://shendrones.myshopify.com/collections/frames/products/corgette)
 
 # Great Courses
 
@@ -61,7 +66,7 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 [Nvidia NN car](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/), [Dan Implements It](https://www.youtube.com/watch?v=1nuu5P3voB8)
 
 # Great Robots
-[Minitaur](http://www.ghostrobotics.io/minitaur/), [Paper](http://ieeexplore.ieee.org/document/7403902/) [Visit](https://practicum2016.wordpress.com/2016/02/11/ghost-robotics-visit/)
+[Minitaur](http://www.ghostrobotics.io/minitaur/), [Tech](http://ieeexplore.ieee.org/document/7403902/), [Visit](https://practicum2016.wordpress.com/2016/02/11/ghost-robotics-visit/)
 
 [Little Arm](https://www.youtube.com/watch?v=vQcxS8zM150)
 
@@ -84,7 +89,7 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 
 [Cartographer](https://opensource.googleblog.com/2016/10/introducing-cartographer.html)
 
-# Study Music
+# Great Study Music
 [Nightmares On Wax DJ Set](https://www.youtube.com/watch?v=Q692lHFaLVM)
 
 [Casey Music](https://www.youtube.com/watch?v=gYwo-sOwfNU)
@@ -93,6 +98,6 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 
 [Disco](https://www.youtube.com/watch?v=mXkq2WimzI4)
 
-# Comedy
+# Great Comedy
 [Comedians In Cars Getting Coffee](http://comediansincarsgettingcoffee.com/john-oliver-what-kind-of-human-animal-would-do-this)
 
