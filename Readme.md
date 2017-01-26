@@ -29,19 +29,26 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 
 # Great Hardware
 [Pi Zero](https://shop.pimoroni.com/search?type=product&q=pi+zero)
-https://www.stereolabs.com/
-http://www.nvidia.com/object/jetson-tk1-embedded-dev-kit.html
-http://www.neodriven.com/
+
+[Zed camera](https://www.stereolabs.com/)
+
+[Jetson TK1](http://www.nvidia.com/object/jetson-tk1-embedded-dev-kit.html)
+
+[Neo](http://www.neodriven.com/)
+
 # Deep Learning Blogs
 [Computer Vision](http://www.computervisionblog.com/)
-http://ideas.4brad.com/
+
+[Robocars](http://ideas.4brad.com/)
+
 # History
 [Silicon Valley Birth](https://web.stanford.edu/class/e145/2007_fall/materials/noyce.html)
 
 # Great AI Concerns
-
 [Concerns](https://arxiv.org/pdf/1611.08219v1.pdf), 
+
 [Concerns](https://arxiv.org/pdf/1606.06565v2.pdf)
+
 [Wait But Why](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 
 # Great FPV drones
