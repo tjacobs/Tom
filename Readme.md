@@ -1,3 +1,31 @@
+## Tom Jacobs
+
+- Built a mulitasking operating system and bootloader.
+- Built a Windows music player app.
+- Built and ran a network of 1m P2P clients across the world.
+- Built and maintained the Expensify mobile apps.
+- Built a remotely piloted internet connected robot.
+- Founded a consumer electronics business.
+- Founded an app development business.
+- Founded an on-demand meal delivery business.
+- Co-founded a retail analytics business.
+- Co-founded an apartment sharing business.
+- Wrote three articles published on TechCrunch.
+- Completed *Coursera's Machine Learning* course.
+- Currently building racing drones.
+- Currently studying in *Coursera's Neural Networks for Machine Learning* course.
+- Currently studying in *Udacity's Self Driving Car Engineer* nanodegree.
+- Currently studying in *Udacity's Deep Learning* nanodegree.
+- Codes in Python, JS/React, Rails, PHP, Objective-C.
+- Experience with TensorFlow, Keras, Raspberry Pi, Arduino, microcontrollers.
+- Uses AWS, Linux, vi, and Sublime.
+
+
+
+
+
+## Things Tom Likes
+
 
 # Great Future Tech
 
@@ -45,17 +73,17 @@ Uber's [flying transportation document](https://www.uber.com/elevate.pdf)
 [Silicon Valley Birth](https://web.stanford.edu/class/e145/2007_fall/materials/noyce.html)
 
 # Great AI Concerns
-[Concerns](https://arxiv.org/pdf/1611.08219v1.pdf), 
+[AI Concerns](https://arxiv.org/pdf/1611.08219v1.pdf)
 
-[Concerns](https://arxiv.org/pdf/1606.06565v2.pdf)
+[AI Concerns](https://arxiv.org/pdf/1606.06565v2.pdf)
 
 [Wait But Why](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 
 # Great FPV drones
 
-## Great Frames
+[Corgette Frame](http://shendrones.myshopify.com/collections/frames/products/corgette)
 
-[Corgette](http://shendrones.myshopify.com/collections/frames/products/corgette)
+[Building Drones](https://www.youtube.com/watch?v=zmHE9aB9EPc)
 
 # Great Courses
 
