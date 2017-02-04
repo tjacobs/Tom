@@ -1,25 +1,23 @@
 ## Tom Jacobs
 
-- Built a mulitasking operating system and bootloader.
-- Built a Windows music player app.
-- Built and ran a network of 1m P2P clients across the world.
-- Built and maintained the Expensify mobile apps.
-- Built a remotely piloted internet connected robot.
-- Founded a consumer electronics business.
-- Founded an app development business.
-- Founded an on-demand meal delivery business.
-- Co-founded a retail analytics business.
-- Co-founded an apartment sharing business.
-- Wrote three articles published on TechCrunch.
-- Completed *Coursera's Machine Learning* course.
-- Currently building racing drones.
+- Built a mulitasking operating system.
+- Built a music player app.
+- Built and ran a [network of 1m P2P clients](https://en.wikipedia.org/wiki/Red_Swoosh).
+- Built and maintained the [Expensify mobile apps](https://expensify.com/).
+- Built a remotely piloted [internet connected robot](https://www.youtube.com/watch?v=FPq7K7XTg3o).
+- Founded a [consumer electronics business](http://www.productreview.com.au/p/jacobs-direct.html).
+- Founded an [on-demand meal delivery business](https://angel.co/youter).
+- Co-founded a [retail analytics business](http://www.kepleranalytics.com.au/).
+- Co-founded an [apartment sharing business](https://thehomeshare.com).
+- Wrote articles [published on TechCrunch](https://techcrunch.com/contributor/tom-jacobs/).
+- Completed [*Coursera's Machine Learning*](https://www.coursera.org/learn/machine-learning).
+- Currently [building racing drones](https://www.youtube.com/watch?v=zmHE9aB9EPc).
 - Currently studying in *Coursera's Neural Networks for Machine Learning* course.
 - Currently studying in *Udacity's Self Driving Car Engineer* nanodegree.
 - Currently studying in *Udacity's Deep Learning* nanodegree.
+- Experience with TensorFlow, Keras, ROS, Raspberry Pi, AWS, and Linux.
 - Codes in Python, JS/React, Rails, PHP, Objective-C.
-- Experience with TensorFlow, Keras, Raspberry Pi, Arduino, microcontrollers.
-- Uses AWS, Linux, vi, and Sublime.
-
+- Wrote pipeline to [detect lane lines](https://www.youtube.com/watch?v=slBCXcicDvQ&feature=youtu.be) for self driving.
 
 
 
