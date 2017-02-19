@@ -1,23 +1,20 @@
 ## Tom Jacobs
 
-- Built a mulitasking operating system.
-- Built a music player app.
-- Built and ran a [network of 1m P2P clients](https://en.wikipedia.org/wiki/Red_Swoosh).
+- Rebuilt and ran a [network of 1m P2P clients](https://en.wikipedia.org/wiki/Red_Swoosh).
 - Built and maintained the [Expensify mobile apps](https://expensify.com/).
 - Built a remotely piloted [internet connected robot](https://www.youtube.com/watch?v=FPq7K7XTg3o).
-- Founded a [consumer electronics business](http://www.productreview.com.au/p/jacobs-direct.html).
+- Founded an [ecommerce consumer electronics business](http://www.productreview.com.au/p/jacobs-direct.html).
 - Founded an [on-demand meal delivery business](https://angel.co/youter).
-- Co-founded a [retail analytics business](http://www.kepleranalytics.com.au/).
+- Co-founded an [analytics business](http://www.kepleranalytics.com.au/).
 - Co-founded an [apartment sharing business](https://thehomeshare.com).
 - Wrote articles [published on TechCrunch](https://techcrunch.com/contributor/tom-jacobs/).
-- Completed [*Coursera's Machine Learning*](https://www.coursera.org/learn/machine-learning).
-- Currently [building racing drones](https://www.youtube.com/watch?v=zmHE9aB9EPc).
-- Currently studying in *Coursera's Neural Networks for Machine Learning* course.
-- Currently studying in *Udacity's Self Driving Car Engineer* nanodegree.
-- Currently studying in *Udacity's Deep Learning* nanodegree.
+- Completed Coursera's [*Machine Learning*](https://www.coursera.org/account/accomplishments/certificate/8JWB2P9M742N) course.
+- Currently taking Udacity's [*Self Driving Car Engineer*](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) nanodegree.
+- Currently taking Udacity's [*Deep Learning*](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) nanodegree.
 - Experience with TensorFlow, Keras, ROS, Raspberry Pi, AWS, and Linux.
 - Codes in Python, JS/React, Rails, PHP, Objective-C.
 - Wrote pipeline to [detect lane lines](https://www.youtube.com/watch?v=slBCXcicDvQ&feature=youtu.be) for self driving.
+- Currently [building racing drones](https://www.youtube.com/watch?v=zmHE9aB9EPc) and robots.
 
 
 
