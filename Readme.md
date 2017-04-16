@@ -14,7 +14,7 @@
 - Experience with TensorFlow, Keras, ROS, Raspberry Pi, AWS, and Linux.
 - Codes in Python, JS, React, Rails, PHP, Objective-C.
 
-- Currently [building drones](https://www.youtube.com/watch?v=zmHE9aB9EPc), flying [cinematography drones](https://www.youtube.com/watch?v=WEqRs0CntqQ), and [designing autonomous robots](https://twitter.com/TomPJacobs/status/848138218755170305).
+- Currently [building drones](https://www.youtube.com/watch?v=KThrDFqO5wc), flying [cinematography drones](https://www.youtube.com/watch?v=WEqRs0CntqQ), and [designing autonomous robots](https://twitter.com/TomPJacobs/status/848138218755170305).
 
 
 
