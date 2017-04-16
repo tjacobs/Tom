@@ -20,7 +20,7 @@
 
 
 ## Recommendations:
----
+
 
 # Future Tech
 
