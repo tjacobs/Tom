@@ -1,5 +1,11 @@
 ## Tom Jacobs
 
+Download [my resume](Resume_Tom_Jacobs.pdf).
+
+Summary:
+
+- Codes in C, Python, JS, React, Rails, PHP, Objective-C.
+- Experience with TensorFlow, Keras, ROS, Raspberry Pi, AWS, and Linux.
 - Rebuilt and ran a [network of 1m P2P clients at Red Swoosh](https://en.wikipedia.org/wiki/Red_Swoosh) [(on the beach)](https://www.wsj.com/articles/SB119179859820351674) [(article)](http://techtuck.blogspot.com.au/2007/10/software-firm-learns-rules-of.html)
 - Created the [Expensify mobile apps](https://blog.expensify.com/author/expensitom/).
 - Built a remotely piloted [internet connected robot](https://www.youtube.com/watch?v=FPq7K7XTg3o).
@@ -11,9 +17,6 @@
 - Completed Coursera's [*Machine Learning*](https://www.coursera.org/account/accomplishments/certificate/8JWB2P9M742N) course.
 - Currently taking Udacity's [*Self Driving Car Engineer*](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) nanodegree. (projects include [detecting lane lines](https://www.youtube.com/watch?v=slBCXcicDvQ&feature=youtu.be))
 - Currently taking Udacity's [*Deep Learning*](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) nanodegree.
-- Experience with TensorFlow, Keras, ROS, Raspberry Pi, AWS, and Linux.
-- Codes in Python, JS, React, Rails, PHP, Objective-C.
-
 - Currently [building drones](https://www.youtube.com/watch?v=KThrDFqO5wc), flying [cinematography drones](https://www.youtube.com/watch?v=WEqRs0CntqQ), and [designing autonomous robots](https://twitter.com/TomPJacobs/status/848138218755170305).
 
 
