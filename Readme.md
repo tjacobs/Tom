@@ -4,7 +4,9 @@ Download [my resume](Resume_Tom_Jacobs.pdf).
 
 Summary:
 
-- Codes in C, Python, JS, React, Rails, PHP, Objective-C.
+- [Currently building an affordable robot for deep learning.](https://github.com/tjacobs/betabot/blob/master/README.md)
+
+- Codes in C/C++, Python, JS, Rails, PHP, Objective-C.
 - Experience with TensorFlow, Keras, ROS, Raspberry Pi, AWS, and Linux.
 - Rebuilt and ran a [network of 1m P2P clients at Red Swoosh](https://en.wikipedia.org/wiki/Red_Swoosh) [(on the beach)](https://www.wsj.com/articles/SB119179859820351674) [(article)](http://techtuck.blogspot.com.au/2007/10/software-firm-learns-rules-of.html)
 - Created the [Expensify mobile apps](https://blog.expensify.com/author/expensitom/).
