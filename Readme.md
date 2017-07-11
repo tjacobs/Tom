@@ -22,9 +22,22 @@ Summary:
 - Currently [building drones](https://www.youtube.com/watch?v=KThrDFqO5wc), flying [cinematography drones](https://www.youtube.com/watch?v=WEqRs0CntqQ), and [designing autonomous robots](https://twitter.com/TomPJacobs/status/848138218755170305).
 
 
+## Latest papers read
+
+[OpenAI Gym](https://arxiv.org/pdf/1606.01540.pdf)
+
+[Pong](http://karpathy.github.io/2016/05/31/rl/)
+
+[Sutton](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
+
+[Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
+[Paper](https://arxiv.org/pdf/1506.02438.pdf)
+
+[Talk](https://www.youtube.com/watch?v=PtAIh9KSnjo)
 
 
-## Recommendations:
+## Recommendations
 
 
 # Future Tech
