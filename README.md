@@ -2,7 +2,7 @@
 My resume, and recommendations on tech.
 ## Tom Jacobs
 
-Download [my resume](Resume_Tom_Jacobs_2018.pdf).
+Download [my resume](Resume_Tom_Jacobs.pdf).
 
 - [Currently building robots at Ghost Robotics.](https://twitter.com/Ghost_Robotics)
 
