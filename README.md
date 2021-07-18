@@ -1,12 +1,10 @@
-# Tom
-My resume.
-## Tom Jacobs
+# Tom Jacobs
 
 Download [my resume](Resume_Tom_Jacobs.pdf).
 
-- [Currently building robots at Ghost Robotics](https://twitter.com/Ghost_Robotics):
+●  [Currently building robots at Ghost Robotics](https://twitter.com/Ghost_Robotics):
 
-● Built robots.
+- Built robots.
 
 ● Developed the robot controller Android app.
 
