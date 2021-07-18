@@ -1,23 +1,33 @@
 # Tom
-My resume, and recommendations on tech.
+My resume.
 ## Tom Jacobs
 
 Download [my resume](Resume_Tom_Jacobs.pdf).
 
-- [Currently building robots at Ghost Robotics.](https://twitter.com/Ghost_Robotics):
+- [Currently building robots at Ghost Robotics](https://twitter.com/Ghost_Robotics):
 
 ● Built robots.
 
 ● Developed the robot controller Android app.
+
 ● Designed and built the joystick remote control.
+
 ● Maintained the SDK developer docs and tools.
+
 ● Maintained network comms protocols for robots.
+
 ● Developed robot health diagnostics software, app and Linux.
+
 ● Upgraded hardware and software of robots at customer sites.
+
 ● Handled the customer support.
+
 ● Trained customers on robots.
+
 ● Wrote the robot user guides.
+
 ● Profiled motor performance.
+
 ● Wrote robot firmware.
 
 - C, C++, Bash, Python, JS, Objective-C.
