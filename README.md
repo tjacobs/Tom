@@ -4,9 +4,10 @@ My resume, and recommendations on tech.
 
 Download [my resume](Resume_Tom_Jacobs.pdf).
 
-- [Currently building robots at Ghost Robotics.](https://twitter.com/Ghost_Robotics)
+- [Currently building robots at Ghost Robotics.](https://twitter.com/Ghost_Robotics):
 
 ● Built robots.
+
 ● Developed the robot controller Android app.
 ● Designed and built the joystick remote control.
 ● Maintained the SDK developer docs and tools.
