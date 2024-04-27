@@ -1,7 +1,5 @@
 # Tom Jacobs
 
-Download [my resume](Resume_Tom_Jacobs.pdf).
-
 ●  [Currently building robots at Ghost Robotics](https://twitter.com/Ghost_Robotics):
 
 - Built robots.
@@ -28,9 +26,11 @@ Download [my resume](Resume_Tom_Jacobs.pdf).
 
 - Wrote robot firmware.
 
-● C, C++, Bash, Python, JS, Objective-C.
+● C, C++, Bash, Python, JavaScript, Android Java.
 
-● Experience with ROS, ROS2, Raspberry Pi, AWS, and Linux.
+● Completed Coursera's [*Machine Learning*](https://www.coursera.org/account/accomplishments/certificate/8JWB2P9M742N) course.
+
+● Completed Udacity's [*Self Driving Car Engineer*](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) nanodegree. (projects include [detecting lane lines](https://www.youtube.com/watch?v=slBCXcicDvQ&feature=youtu.be))
 
 ● Created the [Expensify mobile apps](https://itunes.apple.com/us/app/expensify-receipts-expenses/id471713959?mt=8).
 
@@ -40,17 +40,8 @@ Download [my resume](Resume_Tom_Jacobs.pdf).
 
 ● Founded an [ecommerce consumer electronics business](http://www.productreview.com.au/p/jacobs-direct.html).
 
-● Founded an [on-demand meal delivery business](https://angel.co/youter).
-
 ● Co-founded an [analytics business](http://www.kepleranalytics.com.au/).
-
-● Co-founded an [apartment sharing business](https://homeshare.com).
 
 ● Wrote articles [published on TechCrunch](https://techcrunch.com/author/tom-jacobs/).
 
-● Completed Coursera's [*Machine Learning*](https://www.coursera.org/account/accomplishments/certificate/8JWB2P9M742N) course.
-
-● Completed Udacity's [*Self Driving Car Engineer*](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) nanodegree. (projects include [detecting lane lines](https://www.youtube.com/watch?v=slBCXcicDvQ&feature=youtu.be))
-
-● Always [building](https://www.youtube.com/watch?v=KThrDFqO5wc), and [flying drones](https://www.youtube.com/watch?v=WEqRs0CntqQ), and [designing robots](https://twitter.com/TomPJacobs/status/848138218755170305).
-
+● Download [my resume](Resume_Tom_Jacobs.pdf).
