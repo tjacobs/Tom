@@ -1,8 +1,8 @@
 # Tom Jacobs
 
-● Building robots: [https://x.com/TomPJacobs/status/1818873472283808126](https://x.com/TomPJacobs/status/1818873472283808126)
+● On break.
 
-●  [Building robots at Ghost Robotics](https://twitter.com/Ghost_Robotics):
+●  [Built robots at Ghost Robotics](https://twitter.com/Ghost_Robotics):
 
 - Built robots.
 
