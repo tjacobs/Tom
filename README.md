@@ -32,7 +32,7 @@
 
 ● Completed Coursera's [*Machine Learning*](https://www.coursera.org/account/accomplishments/certificate/8JWB2P9M742N) course.
 
-● Completed Udacity's [*Self Driving Car Engineer*](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) nanodegree. (projects include [detecting lane lines](https://www.youtube.com/watch?v=slBCXcicDvQ&feature=youtu.be))
+● Completed Udacity's [*Self Driving Car Engineer*](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) nanodegree.
 
 ● Created the [Expensify mobile apps](https://itunes.apple.com/us/app/expensify-receipts-expenses/id471713959?mt=8).
 
