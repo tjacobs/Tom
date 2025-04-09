@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tom Jacobs - Personal Website</title>
+    <style>
+        /* Reset and base styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #fff;
+            padding: 2rem 1rem;
+        }
+        
+        /* Container */
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+        
+        /* Typography */
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 0.5rem;
+        }
+        
+        h2 {
+            font-size: 1.25rem;
+            font-weight: 500;
+            text-align: center;
+            color: #666;
+            margin-bottom: 2rem;
+        }
+        
+        h3 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin: 2rem 0 1rem;
+        }
+        
+        p {
+            margin-bottom: 1rem;
+        }
+        
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        /* List styles */
+        ul {
+            list-style-type: none;
+            margin-left: 0;
+            margin-bottom: 1.5rem;
+        }
+        
+        ul li {
+            margin-bottom: 0.5rem;
+            position: relative;
+            padding-left: 1.5rem;
+        }
+        
+        ul li:before {
+            content: "●";
+            position: absolute;
+            left: 0;
+            color: #666;
+        }
+        
+        /* Profile image */
+        .profile-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin: 0 auto 2rem;
+            display: block;
+            border: 3px solid #f5f5f5;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Social links */
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+        
+        .social-links a {
+            color: #666;
+            font-size: 1.5rem;
+        }
+        
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+            
+            h2 {
+                font-size: 1.1rem;
+            }
+            
+            .profile-image {
+                width: 120px;
+                height: 120px;
+            }
+        }
+    </style>
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <!--<img src="https://sjc.microlink.io/ROJHVHxAqq2IG3HVITg8eALo_XpfPyiwlXGXVpGnBejzzx6IuG1FR9vVqCw5JLJLWek0HyKekjTLlA31IxtE_g.jpeg" alt="Tom Jacobs" class="profile-image">-->
+            <h1>Tom Jacobs</h1>
+        </header>
+        
+        <main>
+            <section class="experience">
+                <ul>
+                    <li><a href="https://twitter.com/Ghost_Robotics">Built robots at Ghost Robotics</a>.</li>
+                    <li>C, C++, Bash, Python, JavaScript, Android Java.</li>
+                    <li>Completed Coursera's <a href="https://www.coursera.org/account/accomplishments/certificate/8JWB2P9M742N">Machine Learning</a> course.</li>
+                    <li>Completed Udacity's <a href="https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013">Self Driving Car Engineer</a> nanodegree.</li>
+                    <li>Created the <a href="https://itunes.apple.com/us/app/expensify-receipts-expenses/id471713959?mt=8">Expensify mobile apps</a>.</li>
+                    <li>Rebuilt and ran a <a href="https://en.wikipedia.org/wiki/Red_Swoosh">network of 1m P2P clients at Red Swoosh</a> <a href="https://www.wsj.com/articles/SB119179859820351674">(on the beach)</a> <a href="http://techtuck.blogspot.com.au/2007/10/software-firm-learns-rules-of.html">(article)</a></li>
+                    <li>Built a remotely piloted <a href="https://www.youtube.com/watch?v=FPq7K7XTg3o">internet connected robot</a>.</li>
+                    <li>Founded an <a href="http://www.productreview.com.au/p/jacobs-direct.html">ecommerce consumer electronics business</a>.</li>
+                    <li>Co-founded an <a href="http://www.kepleranalytics.com.au/">analytics business</a>.</li>
+                    <li>Wrote articles <a href="https://techcrunch.com/author/tom-jacobs/">published on TechCrunch</a>.</li>
+                    <li>Download <a href="Resume_Tom_Jacobs.pdf">my resume</a>.</li>
+                </ul>
+            </section>
+        </main>
+        
+        <footer>
+            <div class="social-links">
+                <a href="https://github.com/tjacobs" target="_blank" aria-label="GitHub">
+                    <i class="fab fa-github"></i>
+                </a>
+                <a href="https://linkedin.com/in/tomjacobs" target="_blank" aria-label="LinkedIn">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+                <a href="https://twitter.com/TomPJacobs" target="_blank" aria-label="Twitter">
+                    <i class="fab fa-twitter"></i>
+                </a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
