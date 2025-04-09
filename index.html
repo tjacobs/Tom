@@ -62,26 +62,6 @@
             text-decoration: underline;
         }
         
-        /* List styles */
-        ul {
-            list-style-type: none;
-            margin-left: 0;
-            margin-bottom: 1.5rem;
-        }
-        
-        ul li {
-            margin-bottom: 0.5rem;
-            position: relative;
-            padding-left: 1.5rem;
-        }
-        
-        ul li:before {
-            content: "●";
-            position: absolute;
-            left: 0;
-            color: #666;
-        }
-        
         /* Profile image */
         .profile-image {
             width: 150px;
@@ -92,6 +72,33 @@
             display: block;
             border: 3px solid #f5f5f5;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Project list */
+        .projects {
+            margin: 2rem 0;
+        }
+        
+        .projects ul {
+            list-style-type: none;
+            margin-left: 0;
+        }
+        
+        .projects li {
+            margin-bottom: 0.5rem;
+            position: relative;
+            padding-left: 1.5rem;
+        }
+        
+        .projects li:before {
+            content: "●";
+            position: absolute;
+            left: 0;
+            color: #666;
+        }
+        
+        .projects a {
+            color: #0066cc;
         }
         
         /* Social links */
@@ -131,23 +138,35 @@
         <header>
             <img src="https://pbs.twimg.com/profile_images/1908627744117665792/QII-5cGI_400x400.jpg" alt="Tom Jacobs" class="profile-image">
             <h1>Tom Jacobs</h1>
+            <h2>Robotics Engineer & Software Developer</h2>
         </header>
         
         <main>
-            <section class="experience">
+            <section class="about">
+                <p>I am a robotics engineer and software developer with experience building robots. My work spans hardware and software integration, from developing robot controller apps to designing remote control systems and writing firmware. I'm proficient in multiple programming languages including C, C++, Bash, Python, and JavaScript.</p>
+                
+                <p>My background includes mobile app development, having created the <a href="https://itunes.apple.com/us/app/expensify-receipts-expenses/id471713959?mt=8">Expensify mobile apps</a> and rebuilt a network of 1 million P2P clients at <a href="https://en.wikipedia.org/wiki/Red_Swoosh">Red Swoosh</a>. I've also pursued education in cutting-edge fields, completing courses in Machine Learning and Self-Driving Car Engineering, which complement my hands-on experience building internet-connected robots and autonomous systems.</p>
+                
+                <p>Beyond technical work, I've founded an ecommerce consumer electronics business and co-founded an analytics company. I enjoy sharing knowledge through writing, with articles published on <a href="https://techcrunch.com/author/tom-jacobs/">TechCrunch</a>.</p>
+            </section>
+            
+            <section class="projects">
+                <h3>Some cool things I've done</h3>
                 <ul>
-                    <li><a href="https://twitter.com/Ghost_Robotics">Built robots at Ghost Robotics</a>.</li>
-                    <li>C, C++, Bash, Python, JavaScript, Android Java.</li>
-                    <li>Completed Coursera's <a href="https://www.coursera.org/account/accomplishments/certificate/8JWB2P9M742N">Machine Learning</a> course.</li>
-                    <li>Completed Udacity's <a href="https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013">Self Driving Car Engineer</a> nanodegree.</li>
-                    <li>Created the <a href="https://itunes.apple.com/us/app/expensify-receipts-expenses/id471713959?mt=8">Expensify mobile apps</a>.</li>
+                    <li><a href="https://twitter.com/Ghost_Robotics">Built robots at Ghost Robotics</a></li>
+                    <li>Created the <a href="https://itunes.apple.com/us/app/expensify-receipts-expenses/id471713959?mt=8">Expensify mobile apps</a></li>
                     <li>Rebuilt and ran a <a href="https://en.wikipedia.org/wiki/Red_Swoosh">network of 1m P2P clients at Red Swoosh</a> <a href="https://www.wsj.com/articles/SB119179859820351674">(on the beach)</a> <a href="http://techtuck.blogspot.com.au/2007/10/software-firm-learns-rules-of.html">(article)</a></li>
-                    <li>Built a remotely piloted <a href="https://www.youtube.com/watch?v=FPq7K7XTg3o">internet connected robot</a>.</li>
-                    <li>Founded an <a href="http://www.productreview.com.au/p/jacobs-direct.html">ecommerce consumer electronics business</a>.</li>
-                    <li>Co-founded an <a href="http://www.kepleranalytics.com.au/">analytics business</a>.</li>
-                    <li>Wrote articles <a href="https://techcrunch.com/author/tom-jacobs/">published on TechCrunch</a>.</li>
-                    <li>Download <a href="Resume_Tom_Jacobs.pdf">my resume</a>.</li>
+                    <li>Built a remotely piloted <a href="https://www.youtube.com/watch?v=FPq7K7XTg3o">internet connected robot</a></li>
+                    <li>Founded an <a href="http://www.productreview.com.au/p/jacobs-direct.html">ecommerce consumer electronics business</a></li>
+                    <li>Co-founded an <a href="http://www.kepleranalytics.com.au/">analytics business</a></li>
+                    <li>Wrote articles <a href="https://techcrunch.com/author/tom-jacobs/">published on TechCrunch</a></li>
+                    <li>Completed Coursera's <a href="https://www.coursera.org/account/accomplishments/certificate/8JWB2P9M742N">Machine Learning</a> course</li>
+                    <li>Completed Udacity's <a href="https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013">Self Driving Car Engineer</a> nanodegree</li>
                 </ul>
+            </section>
+            
+            <section class="resume">
+                <p>For more details about my experience and projects, you can <a href="Resume_Tom_Jacobs.pdf">download my resume</a>.</p>
             </section>
         </main>
         
