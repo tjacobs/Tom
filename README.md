@@ -1,6 +1,6 @@
 # Tom Jacobs
 
-● On break.
+● Working on a new startup...
 
 ●  [Built robots at Ghost Robotics](https://twitter.com/Ghost_Robotics):
 
